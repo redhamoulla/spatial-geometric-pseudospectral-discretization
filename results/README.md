@@ -1,17 +1,17 @@
-# Résultats de référence
+# Reference results
 
-Fichiers produits par l'exécution réelle de experiments/reproduce.py.
-Les valeurs ne sont pas préremplies dans les calculs. Seules les fréquences
-publiées en 2012 sont enregistrées comme référence indépendante.
+These files were produced by running experiments/reproduce.py.
+Numerical results are computed, not prefilled. Only the frequencies published
+in 2012 are stored as an independent reference.
 
-- summary.json : mesures et 22 critères de validation.
-- manifest.json : versions et empreintes des sources.
-- tables/ : bilans, convergence, spectres, profils et conditionnements.
-- figures/ : graphiques SVG construits à partir des CSV.
+- summary.json: measurements and 22 validation criteria.
+- manifest.json: software versions and source hashes.
+- tables/: balances, convergence, spectra, profiles and condition numbers.
+- figures/: SVG plots generated from the CSV files.
 
-Les unités sont normalisées sauf les constantes explicites de la reproduction
-de 2012. Longueur de l'intervalle et inductance sont deux paramètres distincts.
-Une reproduction ne requiert pas une égalité bit à bit entre plateformes :
-elle vérifie les critères numériques et conserve ses empreintes de source.
+Units are normalized except for the explicit constants used to reproduce
+the 2012 results. Interval length and inductance are distinct parameters.
+Reproduction does not require bit-for-bit agreement across platforms:
+it checks the numerical criteria and records source hashes.
 
-[Résultats commentés](../docs/manuscrit.md#5-protocole-et-résultats-numériques).
+[Results and discussion](../docs/manuscript.md#5-numerical-protocol-and-results).
