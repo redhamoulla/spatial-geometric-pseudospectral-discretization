@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "platform": "Darwin arm64",
+  "elapsed_seconds": 4.2269102081190795,
+  "seed": 20261010,
+  "sources": {
+    "experiments/figures.py": "2bb3c9135e83f085cc26a445719c05909435b64475af95c6a41f4764abbb9708",
+    "experiments/reproduce.py": "5e105bdad9d716d36a3c9b018f0390c8239cd1b0607b46e5fb703fb10ff897d6",
+    "src/gpps/__init__.py": "6712708edbc4ae191ba4b4b94360867896dde5454e49feeec689a9109b87be0b",
+    "src/gpps/polynomials.py": "ffa5865b163bff7284088d6dd9163e3bf29f7eda6952d03424aecaa847a5460e",
+    "src/gpps/spatial.py": "f6f74a78c81a8163c64506de68749746c129b047548a458b08bb88d8db5add24",
+    "src/gpps/systems.py": "e83108ec006aa93c56cedcbb0b5ba791bd77a573ac16443ee0ea36d2d0cb7782",
+    "src/gpps/time.py": "f3cd3bcb510f7a3b85d3d87cff6651201fb89a7a2ea4b7b8fef14e3d2226bcf0"
+  }
+}

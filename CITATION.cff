@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Cite the 2012 spatial method and temporal references in docs/06_literature.md."
+title: "Spatial geometric pseudospectral discretization: theory and space-time simulations"
+type: software
+version: 0.1.0
+date-released: 2026-10-10
+authors:
+  - family-names: Moulla
+    given-names: Redha
+repository-code: "https://github.com/redhamoulla/spatial-geometric-pseudospectral-discretization"
+preferred-citation:
+  type: article
+  title: "Pseudo-spectral methods for the spatial symplectic reduction of open systems of conservation laws"
+  authors:
+    - family-names: Moulla
+      given-names: Redha
+    - family-names: Lefèvre
+      given-names: Laurent
+    - family-names: Maschke
+      given-names: Bernhard
+  journal: "Journal of Computational Physics"
+  year: 2012
+  volume: "231"
+  issue: "4"
+  start: 1272
+  end: 1292
+  doi: "10.1016/j.jcp.2011.10.008"
