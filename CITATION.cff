@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Cite the 2012 spatial method and temporal references in docs/06_literature.md."
+message: "Cite the 2012 spatial method and temporal references in docs/manuscrit.md (section 6)."
 title: "Spatial geometric pseudospectral discretization: theory and space-time simulations"
 type: software
 version: 0.1.0

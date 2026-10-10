@@ -14,4 +14,4 @@ de 2012. Longueur de l'intervalle et inductance sont deux paramètres distincts.
 Une reproduction ne requiert pas une égalité bit à bit entre plateformes :
 elle vérifie les critères numériques et conserve ses empreintes de source.
 
-[Résultats commentés](../docs/05_validation.md).
+[Résultats commentés](../docs/manuscrit.md#5-protocole-et-résultats-numériques).
